@@ -1,0 +1,5 @@
+{
+  "name": "Copy of Password Strength Meter",
+  "description": "An advanced password strength meter that provides real-time feedback and a secure password generator powered by the Gemini API. Assess your password's security based on various criteria and create strong, memorable passwords with AI assistance.",
+  "requestFramePermissions": []
+}
